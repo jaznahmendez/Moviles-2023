@@ -1,0 +1,28 @@
+{
+    "songs": [
+        {
+            "name": "Bohemian Rhapsody",
+            "artist": "Queen",
+            "album": "A Night at the Opera",
+            "year": "1975"
+        },
+        {
+            "name": "Imagine",
+            "artist": "John Lennon",
+            "album": "Imagine",
+            "year": "1971"
+        },
+        {
+            "name": "Like a Rolling Stone",
+            "artist": "Bob Dylan",
+            "album": "Highway 61 Revisited",
+            "year": "1965"
+        },
+        {
+            "name": "Hey Jude",
+            "artist": "The Beatles",
+            "album": "The Beatles (White Album)",
+            "year": "1968"
+        }
+    ]
+}
